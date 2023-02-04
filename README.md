@@ -1,2 +1,7 @@
-# Openai_em_python
- uso da API do openai em python
+# Usando api do Openai em python
+
+## Dependências
+
+- `Python 3.9`
+- `pip install python-dotenv`
+- `pip install openai`
